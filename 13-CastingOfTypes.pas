@@ -5,7 +5,7 @@
  * Автор: Смирнов Владимир                                  *
  ************************************************************)
 
-program TypicalErrors;
+program CastingOfTypes;
 
 var
   integer1, integer2: Integer;
