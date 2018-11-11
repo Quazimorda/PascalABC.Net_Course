@@ -20,7 +20,7 @@ procedure readingNumbers(var a, b, c: Real);
 begin
   writeln();
   inputNumber('Пожалуйста введите число A: ', a);
-  inputNumber('Теперь - число B: : ', b);
+  inputNumber('Теперь - число B: ', b);
   inputNumber('И наконец, число C: ', c);
 end;
 
@@ -30,7 +30,7 @@ begin
   Result := b * b - 4 * a * c;
 end;
 
-/// Вычисляем корни квадраного уравнения и выводим их на экран.
+/// Вычисляем корни квадратного уравнения и выводим их на экран.
 procedure outputRoots(var a, b, c, d: Real);
 begin
   write(
