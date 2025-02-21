@@ -7,6 +7,7 @@
     * [youtube](https://www.youtube.com/playlist?list=PLXIGmXb9HGzLyas5Ou-bLohT5s-t2tOFW);
     * [rutube](https://rutube.ru/plst/43307/);
     * [vk](https://vkvideo.ru/playlist/-207954158_1),
+	
 но есть и его [текстовый вариант](http://www.vsmirnov.ru/pascal), который, правда, заполняется с большим отставанием.
 * В качестве среды разработки выбран [PascalABC.Net](http://www.pascalabc.net/).
 * Не следует удивляться тому, что в сквозной нумирации листингов пропущены некоторые номера. Бывает, что на очередном занятии
