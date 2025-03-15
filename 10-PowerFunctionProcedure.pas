@@ -73,5 +73,5 @@ BEGIN
   PowerProc( base, index, r );
   writeln( base , ' ^ ', index, ' = ', r, ' - работала процедура.' );
   
-  readln();
+  readln;
 END.

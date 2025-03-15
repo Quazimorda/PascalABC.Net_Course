@@ -16,5 +16,5 @@ BEGIN
   r := a / b;
   
   writeln( r );
-  readln();
+  readln;
 END.

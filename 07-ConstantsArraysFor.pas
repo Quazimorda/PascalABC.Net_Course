@@ -21,5 +21,5 @@ BEGIN
   end;
   
   writeln( mas );
-  readln();
+  readln;
 END.
